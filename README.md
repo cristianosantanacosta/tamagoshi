@@ -21,7 +21,8 @@ Um jogo simples de Tamagotchi feito com React + Vite e uma interface moderna. O 
 
 ## 🖼️ Prévia
 
-![tamagotchi-prévia](./tama1.png)
+![tamagotchi-prévia](assets/tama1.png)
+
 
 ## ▶️ Como rodar o projeto localmente
 
